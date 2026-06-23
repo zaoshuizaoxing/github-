@@ -1,5 +1,16 @@
+裸机freertos必备嵌入式skill：1：https://github.com/mattpocock/skills   
+						  2：https://github.com/a5c-ai/babysitter
+
+
 免费获取域名：https://github.com/DigitalPlatDev/FreeDomain
 内置IDEagent:  https://github.com/can1357/oh-my-pi
 合成短视频：https://github.com/harry0703/MoneyPrinterTurbo
 高清化图片：https://codeformerai.com/zh#usage
 ai漫剧：https://github.com/calesthio/OpenMontage
+pdf软件：https://github.com/Stirling-Tools/Stirling-PDF
+语音克隆：https://github.com/jamiepine/voicebox
+网安ai skill：https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+嵌入式ui开发：https://github.com/penpot/penpot
+ai团队开发：https://github.com/garrytan/gstack
+网页克隆：https://github.com/JCodesMore/ai-website-cloner-template
+本地部署高参数模型：https://github.com/lyogavin/airllm
