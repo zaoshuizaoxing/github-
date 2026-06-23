@@ -1,3 +1,5 @@
 免费获取域名：https://github.com/DigitalPlatDev/FreeDomain
 内置IDEagent:  https://github.com/can1357/oh-my-pi
 合成短视频：https://github.com/harry0703/MoneyPrinterTurbo
+高清化图片：https://codeformerai.com/zh#usage
+ai漫剧：https://github.com/calesthio/OpenMontage
