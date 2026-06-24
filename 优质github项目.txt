@@ -12,3 +12,4 @@ ai团队开发：https://github.com/garrytan/gstack
 网页克隆：https://github.com/JCodesMore/ai-website-cloner-template
 本地部署高参数模型：https://github.com/lyogavin/airllm
 ai科技炒股：https://github.com/ZhuLinsen/daily_stock_analysis
+世界情报获取：https://github.com/koala73/worldmonitor
