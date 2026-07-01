@@ -13,3 +13,6 @@ ai团队开发：https://github.com/garrytan/gstack
 本地部署高参数模型：https://github.com/lyogavin/airllm
 ai科技炒股：https://github.com/ZhuLinsen/daily_stock_analysis
 世界情报获取：https://github.com/koala73/worldmonitor
+私人交易助理：https://github.com/HKUDS/Vibe-Trading
+募集个人信息：https://github.com/soxoj/maigret
+青春练习指南：https://github.com/hasaneyldrm/exercises-dataset#setuphtml--developer-setup-guide
