@@ -16,3 +16,6 @@ ai科技炒股：https://github.com/ZhuLinsen/daily_stock_analysis
 私人交易助理：https://github.com/HKUDS/Vibe-Trading
 募集个人信息：https://github.com/soxoj/maigret
 青春练习指南：https://github.com/hasaneyldrm/exercises-dataset#setuphtml--developer-setup-guide
+ai认知学习：https://github.com/microsoft/generative-ai-for-beginners
+ai（）：https://github.com/santifer/career-ops
+gpu加速：https://github.com/pytorch/pytorch
