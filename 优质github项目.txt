@@ -19,3 +19,5 @@ ai科技炒股：https://github.com/ZhuLinsen/daily_stock_analysis
 ai认知学习：https://github.com/microsoft/generative-ai-for-beginners
 ai（）：https://github.com/santifer/career-ops
 gpu加速：https://github.com/pytorch/pytorch
+高性能相册：https://github.com/immich-app/immich
+gptlplus：https://www.glouth.com/pay/checkout?slug=chatgpt-topup&sku=1
