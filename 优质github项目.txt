@@ -20,4 +20,6 @@ ai认知学习：https://github.com/microsoft/generative-ai-for-beginners
 ai（）：https://github.com/santifer/career-ops
 gpu加速：https://github.com/pytorch/pytorch
 高性能相册：https://github.com/immich-app/immich
-gptlplus：https://www.glouth.com/pay/checkout?slug=chatgpt-topup&sku=1
+gptlplus：1：https://www.glouth.com/pay/checkout?slug=chatgpt-topup&sku=1
+		  2：https://pay.ldxp.cn/shop/3F5YOW2H
+		  3：https://www.bilibili.com/video/BV1Jbje6uED7/?spm_id_from=333.337.search-card.all.click&vd_source=b8639f64e02b1deffa715d62ab0a4084
