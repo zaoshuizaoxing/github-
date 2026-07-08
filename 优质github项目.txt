@@ -24,3 +24,4 @@ gptlplus：1：https://www.glouth.com/pay/checkout?slug=chatgpt-topup&sku=1
 		  2：https://pay.ldxp.cn/shop/3F5YOW2H
 		  3：https://www.bilibili.com/video/BV1Jbje6uED7/?spm_id_from=333.337.search-card.all.click&vd_source=b8639f64e02b1deffa715d62ab0a4084
 google书签扩展：Karakeep
+大厂propmt：https://github.com/asgeirtj/system_prompts_leaks
