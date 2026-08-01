@@ -2,3 +2,4 @@
 小范围群聊搭建：https://github.com/permissionlesstech/bitchat
 抓取各网站热点：https://github.com/NanmiCoder/MediaCrawler
 换脸:https://github.com/deepfakes/faceswap
+换脸平台：https://github.com/chatwoot/chatwoot
