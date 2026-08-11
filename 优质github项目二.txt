@@ -6,3 +6,6 @@
 优化处理PDF文件（可转md）：https://github.com/firecrawl/pdf-inspector
 free api：https://app.kiro.dev/settings/account#upgrade
 构建数据网咯：https://github.com/semantica-agi/semantica
+agent+skill结合体：https://github.com/msitarzewski/agency-agents
+多子代理工作：https://github.com/paperclipai/paperclip
+面向程序员自主agent：https://github.com/PrimeIntellect-ai/prime-agent
