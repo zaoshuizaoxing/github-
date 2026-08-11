@@ -5,3 +5,4 @@
 换脸平台：https://github.com/chatwoot/chatwoot
 优化处理PDF文件（可转md）：https://github.com/firecrawl/pdf-inspector
 free api：https://app.kiro.dev/settings/account#upgrade
+构建数据网咯：https://github.com/semantica-agi/semantica
