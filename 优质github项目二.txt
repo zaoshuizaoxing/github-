@@ -11,3 +11,4 @@ agent+skill结合体：https://github.com/msitarzewski/agency-agents
 面向程序员自主agent：https://github.com/PrimeIntellect-ai/prime-agent
 文档ai解析：https://www.qianwen.com/chat/2fc9c40c25e64c7189968d54212ea65f
 募集信息：https://github.com/smicallef/spiderfoot
+团队信息管理交互：https://github.com/macro-inc/macro
