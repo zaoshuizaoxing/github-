@@ -5,7 +5,7 @@
 换脸平台：https://github.com/chatwoot/chatwoot
 优化处理PDF文件（可转md）：https://github.com/firecrawl/pdf-inspector
 free api：https://app.kiro.dev/settings/account#upgrade
-构建数据网咯：https://github.com/semantica-agi/semantica
+构建数据网络：https://github.com/semantica-agi/semantica
 agent+skill结合体：https://github.com/msitarzewski/agency-agents
 多子代理工作：https://github.com/paperclipai/paperclip
 面向程序员自主agent：https://github.com/PrimeIntellect-ai/prime-agent
@@ -13,4 +13,5 @@ agent+skill结合体：https://github.com/msitarzewski/agency-agents
 募集信息：https://github.com/smicallef/spiderfoot
 团队信息管理交互：https://github.com/macro-inc/macro
 自训练本地模型:https://github.com/unslothai/unsloth
-本地算力遥控软件：https://github.com/rustdesk/rustdesk
+本地算力遥控软搭建：https://github.com/rustdesk/rustdesk
+汇报图表生成：https://github.com/cathrynlavery/diagram-design

@@ -32,3 +32,4 @@ windows系统清理脚本：https://github.com/Raphire/Win11Debloat
 ai视频剪辑：https://github.com/OpenCut-app/OpenCut
 多ai接口网关：https://github.com/diegosouzapw/OmniRoute
 确认电脑模型支持：https://github.com/AlexsJones/llmfit
+攀登更高的山峰：https://github.com/santifer/career-ops
