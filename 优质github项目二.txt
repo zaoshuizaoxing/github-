@@ -16,3 +16,4 @@ agent+skill结合体：https://github.com/msitarzewski/agency-agents
 本地算力遥控软搭建：https://github.com/rustdesk/rustdesk
 汇报图表生成：https://github.com/cathrynlavery/diagram-design
 可回溯插件管理系统：https://github.com/cordiverse/cordis
+简易linux：https://github.com/basecamp/omarchy
