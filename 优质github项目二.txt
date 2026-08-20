@@ -18,3 +18,4 @@ agent+skill结合体：https://github.com/msitarzewski/agency-agents
 可回溯插件管理系统：https://github.com/cordiverse/cordis
 简易linux：https://github.com/basecamp/omarchy
 github回关脚本：https://github.com/dbunt1tled/github-unfollow
+本地相片保存：https://github.com/immich-app/immich
