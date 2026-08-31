@@ -22,3 +22,4 @@ github回关脚本：https://github.com/dbunt1tled/github-unfollow
 手势按键：https://github.com/AprilNEA/OpenLogi
 online wegame：https://github.com/bilawalsidhu/gods-eye-view
 孩子线上学习:https://github.com/THU-MAIC/OpenMAIC
+友好的交流社区：https://github.com/unclecode/crawl4ai
