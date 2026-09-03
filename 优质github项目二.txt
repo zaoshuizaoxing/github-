@@ -24,3 +24,6 @@ online wegame：https://github.com/bilawalsidhu/gods-eye-view
 孩子线上学习:https://github.com/THU-MAIC/OpenMAIC
 友好的交流社区：https://github.com/unclecode/crawl4ai
 各专家类型skill:https://github.com/K-Dense-AI/scientific-agent-skills
+数字未来预测：https://github.com/google-research/timesfm
+有声书：https://github.com/debpalash/VoiceStudio
+解决本地端口过多问题：https://github.com/vercel-labs/portless
