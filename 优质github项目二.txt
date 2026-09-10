@@ -27,3 +27,4 @@ online wegame：https://github.com/bilawalsidhu/gods-eye-view
 数字未来预测：https://github.com/google-research/timesfm
 有声书：https://github.com/debpalash/VoiceStudio
 解决本地端口过多问题：https://github.com/vercel-labs/portless
+格式工厂（视频播放抽帧）：https://www.pcgeshi.com/
