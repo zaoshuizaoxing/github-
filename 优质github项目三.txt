@@ -1,1 +1,2 @@
 翻墙软件：https://github.com/bannedbook/fanqiang
+music生成：https://github.com/multimodal-art-projection/YuE
