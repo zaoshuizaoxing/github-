@@ -1,2 +1,4 @@
 翻墙软件：https://github.com/bannedbook/fanqiang
 music生成：https://github.com/multimodal-art-projection/YuE
+阿里图标图库：https://www.iconfont.cn/search/index?searchType=icon&q=%E5%85%85%E7%94%B5%E5%99%A8
+字节跳动图标图库：https://iconpark.aiproducthub.cn/
