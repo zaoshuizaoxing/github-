@@ -4,3 +4,5 @@ music生成：https://github.com/multimodal-art-projection/YuE
 字节跳动图标图库：https://iconpark.aiproducthub.cn/
 金融ai：https://github.com/shiyu-coder/Kronos
 整页脚本抓取：https://github.com/D4Vinci/Scrapling
+光盘全能可视化图像生成及其工具：https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
+咸鱼精准搜索：https://github.com/Usagi-org/ai-goofish-monitor
